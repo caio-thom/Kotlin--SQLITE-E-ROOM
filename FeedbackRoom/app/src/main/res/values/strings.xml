@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FeedbackRoom</string>
+    <string name="novo">Novo</string>
+    <string name="formulario">Formulário</string>
+    <string name="salvar">Salvar</string>
+    <string name="registro_cadastrado_com_sucesso">Registro cadastrado com sucesso!</string>
+    <string name="vazio"></string>
+    <string name="company">Fabricante</string>
+    <string name="car">nome do carro</string>
+    <string name="license_plate">Palca</string>
+    <string name="year">ano de fabricação</string>
+    <string name="Price">Preço</string>
+    <string name="campo_e_obrigatorio">Campo obrigatorio</string>
+</resources>
